@@ -1,5 +1,4 @@
-HOW I COMPILED THE PROGRAMS
----------------------------
+# HOW I COMPILED THE PROGRAMS
 
 I used the gcc for the following reasons:
 - Full suport of newer C standards
